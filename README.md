@@ -5,12 +5,12 @@
 
 ## Used Technologies:
 1) Junit & Selenium for end-to-end testing.
-2) spring boot.
-3) spring security.
-4) spring mvc.
-5) h2 in memory database.
-6) mybatis ORM.
-7) thymeleaf.
+2) Spring Boot.
+3) Spring Security.
+4) Spring MVC.
+5) H2 in memory database.
+6) Mybatis ORM.
+7) Thymeleaf.
 
 ## user-signup-login-flow:
 ![user-signup-login-flow](https://user-images.githubusercontent.com/36087477/147603263-c187486d-a452-4402-9dd0-d68752598153.gif)
