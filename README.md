@@ -1,6 +1,7 @@
 # Super*Duper*Drive Cloud Storage
 > A full-stack web application built with java and springboot eco-system, Implementing CRD(create, read, delete) operations for file and CRUD(create, read, update, delete) operations for notes and credentials for users.
-> this project was submitted for the first course of udacity java webdeveloper nano-degree. (https://classroom.udacity.com/nanodegrees/nd035/dashboard/overview)
+
+## This project was submitted for the first course of udacity java webdeveloper nano-degree. (https://classroom.udacity.com/nanodegrees/nd035/dashboard/overview)
 
 ## Used Technologies:
 1) Junit & Selenium for end-to-end testing.
